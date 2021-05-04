@@ -5,7 +5,8 @@
 
 # Appearance
 
-theme: minimal
+# theme: minimal
+theme: dark
 day_night: true
 font: ''
 font_size: L
@@ -20,19 +21,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: sap625@mst.edu
+phone: (816) 807-2750
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  # street:
+  city: Rolla
+  region: MO
+  postcode: '65401'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '37.95380199053826'
+  longitude: '-91.77546659275458'
+# directions:
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
@@ -41,19 +42,19 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'https://twitter.com/theAP6YC'
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:echo123?call'
+  # - icon: keybase
+  #   icon_pack: fab
+  #   name: Chat on Keybase
+  #   link: 'https://keybase.io/'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -108,7 +109,7 @@ copyright_license:
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
 publications:
   date_format: January 2006
@@ -156,3 +157,12 @@ cms:
 icon:
   pack:
     ai: true
+
+# copyright_license:
+#   enable: false
+#   allow_derivatives: false
+#   share_alike: true
+#   allow_commercial: false
+#   notice: >-
+#     Except as otherwise noted, this work is licensed under {license}, and code
+#     samples are licensed under the MIT License.
