@@ -29,7 +29,7 @@
       }
       return d2 && !a.classList.contains("dark") ? (console.debug("Applying Wowchemy dark theme"), document.body.classList.add("dark")) : !d2 && a.classList.contains("dark") && (console.debug("Applying Wowchemy light theme"), document.body.classList.remove("dark")), {isDarkTheme: d2, themeMode: e2};
     }
-    e = true, f = false, window.wc = {darkLightEnabled: e, isSiteThemeDark: f}, window.netlifyIdentity && window.netlifyIdentity.on("init", (a2) => {
+    e = true, f = true, window.wc = {darkLightEnabled: e, isSiteThemeDark: f}, window.netlifyIdentity && window.netlifyIdentity.on("init", (a2) => {
       a2 || window.netlifyIdentity.on("login", () => {
         document.location.href = "/admin/";
       });
