@@ -9,7 +9,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://ap6yc.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>AdaptiveResonance.jl</title><link>https://ap6yc.github.io/project/adaptiveresonance/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/project/adaptiveresonance/</guid><description/></item><item><title>ClusterValidityIndices.jl</title><link>https://ap6yc.github.io/project/clustervalidityindices/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/project/clustervalidityindices/</guid><description/></item><item><title>MetaICVI.jl</title><link>https://ap6yc.github.io/project/metaicvi/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/project/metaicvi/</guid><description/></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://ap6yc.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
 &lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
 &lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
@@ -63,10 +63,55 @@ The template is mobile first with a responsive design to ensure that your site l
 &lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
 &lt;h2 id="license">License&lt;/h2>
 &lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
-&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>λόγος</title><link>https://ap6yc.github.io/post/2019-07-29-logos/</link><pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/post/2019-07-29-logos/</guid><description>&lt;p>Why logos? asdfasdf
-asdfasdfasdfa
-asdfasdfasd&lt;/p>
-&lt;p>The image banners at the top of the page are refered to as “bigimg” in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.&lt;/p>
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>AdaptiveResonance.jl</title><link>https://ap6yc.github.io/post/2021-09-27-adaptiveresonance/</link><pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/post/2021-09-27-adaptiveresonance/</guid><description>&lt;!-- KaTeX can be used to generate complex math formulas. It supports in-line math using the `\\( ... \\)` delimiters, like this: \\( E = mc^2 \\). By default, it does *not* support in-line delimiters `$...$` because those occur too commonly in typical webpages. It supports displayed math using the `$$` or `\\[...\\]` delimiters, like this:
+Formula 1:
+$$
+\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
+$$
+Formula 2: (same formula, different delimiter)
+\\[
+\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
+\\]
+Additional details can be found on [GitHub](https://github.com/Khan/KaTeX) or on the [Wiki](http://tiddlywiki.com/plugins/tiddlywiki/katex/).
+more
+### Example 1
+If the text between $$ contains newlines it will rendered in display mode:
+```
+$$
+f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+$$
+```
+$$
+f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+$$
+### Example 2
+```
+$$
+\frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} = 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}} {1+\frac{e^{-8\pi}} {1+\cdots} } } }
+$$
+```
+$$
+\frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} = 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}} {1+\frac{e^{-8\pi}} {1+\cdots} } } }
+$$
+### Example 3
+```
+$$
+1 + \frac{q^2}{(1-q)}+\frac{q^6}{(1-q)(1-q^2)}+\cdots = \prod_{j=0}^{\infty}\frac{1}{(1-q^{5j+2})(1-q^{5j+3})}, \quad\quad \text{for }\lvert q\rvert&lt;1.
+$$
+```
+$$
+1 + \frac{q^2}{(1-q)}+\frac{q^6}{(1-q)(1-q^2)}+\cdots = \prod_{j=0}^{\infty}\frac{1}{(1-q^{5j+2})(1-q^{5j+3})}, \quad\quad \text{for }\lvert q\rvert&lt;1.
+$$
+### Example 4
+Remember, certain characters are rendered by markdown, so you may need to workaround those issues. You can find the complete list of KaTeX supported functions here: [https://khan.github.io/KaTeX/docs/supported.html](https://khan.github.io/KaTeX/docs/supported.html)
+For example, the `'` character can be replaced with `^\prime`:
+$$
+G^\prime = G - u
+$$
+The `"` character can be replaced with `^{\prime\prime}`:
+$$
+G^{\prime\prime} = G^\prime - v
+$$ --></description></item><item><title>λόγος</title><link>https://ap6yc.github.io/post/2019-07-29-logos/</link><pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/post/2019-07-29-logos/</guid><description>&lt;p>TODO&lt;/p>
 &lt;!-- KaTeX can be used to generate complex math formulas. It supports in-line math using the `\\( ... \\)` delimiters, like this: \\( E = mc^2 \\). By default, it does *not* support in-line delimiters `$...$` because those occur too commonly in typical webpages. It supports displayed math using the `$$` or `\\[...\\]` delimiters, like this:
 Formula 1:
 $$
@@ -230,11 +275,7 @@ color: navy;
 &lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Example Project</title><link>https://ap6yc.github.io/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/project/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
-&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
-&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>An example conference paper</title><link>https://ap6yc.github.io/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/publication/example/</guid><description>&lt;div class="alert alert-note">
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>An example conference paper</title><link>https://ap6yc.github.io/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/publication/example/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -244,7 +285,7 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Shape-dependence of transmission, reflection and absorption eigenvalue densities in disordered waveguides with dissipation</title><link>https://ap6yc.github.io/publication/yamilov/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/publication/yamilov/</guid><description>&lt;div class="alert alert-note">
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Shape-dependence of transmission, reflection and absorption eigenvalue densities in disordered waveguides with dissipation</title><link>https://ap6yc.github.io/publication/yamilov/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/publication/yamilov/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -254,4 +295,4 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://ap6yc.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/admin/config.yml</guid><description/></item></channel></rss>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title/><link>https://ap6yc.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/admin/config.yml</guid><description/></item></channel></rss>
