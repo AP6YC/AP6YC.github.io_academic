@@ -9,17 +9,23 @@ tags:
 date: "2021-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/AP6YC/MetaICVI.jl"
+# external_link: "https://github.com/AP6YC/MetaICVI.jl"
+external_link: ""
 
 image:
   caption: <div>Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
   focal_point: Smart
 
 links:
-- icon: twitter
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: GitHub
+  url: https://github.com/AP6YC/AdaptiveResonance.jl
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -33,3 +39,5 @@ url_video: ""
 # slides: example
 slides: ""
 ---
+
+`MetaICVI.jl` is a standalone package that implements the MetaICVI approach to verifying the performance and stability of an unsupervised clustering algorithm in the absence of supervised labels.

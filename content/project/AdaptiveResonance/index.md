@@ -9,7 +9,8 @@ tags:
 date: "2021-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/AP6YC/AdaptiveResonance.jl"
+# external_link: "https://github.com/AP6YC/AdaptiveResonance.jl"
+external_link: ""
 
 image:
   caption: ART module architecture.
@@ -25,7 +26,21 @@ links:
   icon_pack: fas
   name: Post
   url: "/post/2021-09-27-adaptiveresonance/"
-url_code: "https://github.com/AP6YC/AdaptiveResonance.jl"
+- icon: github
+  icon_pack: fab
+  name: GitHub
+  url: https://github.com/AP6YC/AdaptiveResonance.jl
+- icon: code-branch
+  icon_pack: fas
+  name: JuliaHub
+  url: https://juliahub.com/ui/Packages/AdaptiveResonance/Sm0We
+- icon_pack: fab
+  icon: osi
+  name: Publication
+  url: '/publication/joss-art'
+
+# url_code: "https://github.com/AP6YC/AdaptiveResonance.jl"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -39,3 +54,5 @@ url_video: ""
 slides: ""
 ---
 
+`AdaptiveResonance.jl` is a registered JuliaHub package for Adaptive Resonance Theory (ART) modules.
+These algorithms are built upon a foundation of the neural theory and implementations of Stephen Grossberg and Gail Carpenter.

@@ -1,11 +1,11 @@
 ---
-title: ClusterValidityIndices.jl
-subtitle: A Julia package for incremental and batch Cluster Validity Indices (CVI/ICVI).
+title: ClusterValidityIndices.jl is released on JuliaHub
+subtitle: ClusterValidityIndices.jl is registered as an official JuliaHub package at version 0.1.0.
 date: 2019-07-29
 authors: ["admin"]
 categories: ["projects"]
 tags: ["Julia", "CVI", "ICVI"]
-summary: A Julia package for incremental and batch Cluster Validity Indices (CVI/ICVI).
+summary: ClusterValidityIndices.jl is registered as an official JuliaHub package at version 0.1.0.
 featured: true
 # profile: true
 # commentable: true
@@ -38,5 +38,5 @@ image:
   preview_only: false
 ---
 
-`ClusterValidityIndices.jl` is a registered JuliaHub package for incremental and batch Cluster Validity Indices (CVI/ICVI).
-These algorithms are used for determining the quality and performance of a clustering algorithm in the absence of a supervisory signal.
+`ClusterValidityIndices.jl` has been released on JuliaHub!
+Please see the [project page](/project/clustervalidityindices) to learn more about the project, JuliaHub, and CVI/ICVI.

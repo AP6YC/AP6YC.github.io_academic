@@ -1,11 +1,11 @@
 ---
-title: AdaptiveResonance.jl
-subtitle: A Julia package for Adaptive Resonance Theory (ART) modules.
+title: AdaptiveResonance.jl is released on JuliaHub
+subtitle: AdaptiveResonance.jl is registered as an official JuliaHub package at version 0.1.0
 date: 2019-07-29
 authors: ["admin"]
 categories: ["projects"]
 tags: ["Julia", "ART"]
-summary: A Julia package for Adaptive Resonance Theory (ART) modules.
+summary: AdaptiveResonance.jl is registered as an official JuliaHub package at version 0.1.0.
 featured: true
 # profile: true
 # commentable: true
@@ -38,5 +38,5 @@ image:
   preview_only: false
 ---
 
-`AdaptiveResonance.jl` is a registered JuliaHub package for Adaptive Resonance Theory (ART) modules.
-These algorithms are built upon a foundation of the neural theory and implementations of Stephen Grossberg and Gail Carpenter.
+`AdaptiveResonance.jl` has been released on JuliaHub!
+Please see the [project page](/project/adaptiveresonance) to learn more about the project, JuliaHub, and ART.
