@@ -23,6 +23,7 @@ organizations:
 bio: My research interests include deep reinforcement learning, unsupervised learning, and the pursuit of general artificial intelligence.
 
 interests:
+- Adaptive Resonance Theory
 - Artificial Intelligence
 - Optimal Estimation
 
@@ -108,7 +109,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/sasha-petrenko-cv.pdf
+  link: files/Sasha_Petrenko_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sap625@mst.edu"
@@ -121,6 +122,8 @@ email: "sap625@mst.edu"
 ---
 
 Sasha Petrenko is a graduate researcher at the Missouri University of Science and Technology. He has a background in the Aerospace Engineering topics of orbital mechanics and applied optimal estimation. His research interests include artificial intelligence, adaptive dynamic programming (reinforcement learning), and autonomy.
+
+[Curriculum Vitae](files/Sasha_Petrenko_CV.pdf)
 
 <!-- ---
 # Display name

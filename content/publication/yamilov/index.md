@@ -28,15 +28,15 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *American Physical Society Physical Review B*
-publication_short: In *APS PhysRevB*
+publication: American Physical Society Physical Review B
+publication_short: APS PhysRevB
 
 abstract: The universal bimodal distribution of transmission eigenvalues in lossless diffusive systems underpins such celebrated phenomena as universal conductance fluctuations, quantum shot noise in condensed matter physics and optimal transmission in optics and acoustics. Here, we show that in the presence of absorption, density of the transmission eigenvalues depends on the confinement geometry of scattering media. Furthermore, in an asymmetric waveguide, densities of the reflection and absorption eigenvalues also depend of the side from which the waves are incident. With increasing absorpotion, the density of absorption eigenvalues changes qualitatively from single-peak to double-peak function. Our findings open a new avenue for coherent control of wave transmission, reflection and absorption in random media.
 
 # Summary. An optional shortened abstract.
 summary: We show that in the presence of absorption, density of the transmission eigenvalues depends on the confinement geometry of scattering media.
 
-tags: []
+tags: ["Physics", "Python"]
 
 # Display this page in the Featured widget?
 featured: true

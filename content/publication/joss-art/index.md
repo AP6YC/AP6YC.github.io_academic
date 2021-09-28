@@ -1,6 +1,5 @@
 ---
-title: "AdaptiveResonance.jl: A Julia implementation of
-Adaptive Resonance Theory (ART) algorithms"
+title: "AdaptiveResonance.jl: A Julia implementation of Adaptive Resonance Theory (ART) algorithms"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,8 +26,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *American Physical Society Physical Review B*
-publication_short: In *APS PhysRevB*
+publication: Journal of Open Source Software
+publication_short: JOSS
 
 abstract: AdaptiveResonance.jl is a Julia package for machine learning with Adaptive Resonance Theory (ART) algorithms, written in the numerical computing language Julia. ART is a neurocognitive theory of how competitive cellular networks can learn distributed patterns without supervision through recurrent field connections, eliciting the mechanisms of perception, expectation, and recognition (Grossberg, 1980, 2013).
 
@@ -68,6 +67,8 @@ image:
 #   Otherwise, set `projects: []`.
 # projects:
 # - example
+projects:
+  - AdaptiveResonance
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
