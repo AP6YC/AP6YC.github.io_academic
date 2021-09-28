@@ -9,7 +9,27 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>AdaptiveResonance.jl</title><link>https://ap6yc.github.io/project/adaptiveresonance/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/project/adaptiveresonance/</guid><description/></item><item><title>ClusterValidityIndices.jl</title><link>https://ap6yc.github.io/project/clustervalidityindices/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/project/clustervalidityindices/</guid><description/></item><item><title>MetaICVI.jl</title><link>https://ap6yc.github.io/project/metaicvi/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/project/metaicvi/</guid><description/></item><item><title>AdaptiveResonance.jl</title><link>https://ap6yc.github.io/post/2021-09-27-adaptiveresonance/</link><pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/post/2021-09-27-adaptiveresonance/</guid><description>&lt;p>&lt;code>AdaptiveResonance.jl&lt;/code> is a registered JuliaHub package for Adaptive Resonance Theory (ART) modules.
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>AdaptiveResonance.jl</title><link>https://ap6yc.github.io/project/adaptiveresonance/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/project/adaptiveresonance/</guid><description/></item><item><title>ClusterValidityIndices.jl</title><link>https://ap6yc.github.io/project/clustervalidityindices/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/project/clustervalidityindices/</guid><description/></item><item><title>MetaICVI.jl</title><link>https://ap6yc.github.io/project/metaicvi/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/project/metaicvi/</guid><description/></item><item><title>AdaptiveResonance.jl: A Julia implementation of Adaptive Resonance Theory (ART) algorithms</title><link>https://ap6yc.github.io/publication/joss-art/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/publication/joss-art/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>ClusterValidityIndices.jl: Batch and Incremental Metrics for Unsupervised Learning</title><link>https://ap6yc.github.io/publication/joss-cvi/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/publication/joss-cvi/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>AdaptiveResonance.jl</title><link>https://ap6yc.github.io/post/2021-09-27-adaptiveresonance/</link><pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/post/2021-09-27-adaptiveresonance/</guid><description>&lt;p>&lt;code>AdaptiveResonance.jl&lt;/code> is a registered JuliaHub package for Adaptive Resonance Theory (ART) modules.
 These algorithms are built upon a foundation of the neural theory and implementations of Stephen Grossberg and Gail Carpenter.&lt;/p>
 &lt;!-- KaTeX can be used to generate complex math formulas. It supports in-line math using the `\\( ... \\)` delimiters, like this: \\( E = mc^2 \\). By default, it does *not* support in-line delimiters `$...$` because those occur too commonly in typical webpages. It supports displayed math using the `$$` or `\\[...\\]` delimiters, like this:
 Formula 1:
@@ -109,7 +129,31 @@ $$
 The `"` character can be replaced with `^{\prime\prime}`:
 $$
 G^{\prime\prime} = G^\prime - v
-$$ --></description></item><item><title>λόγος</title><link>https://ap6yc.github.io/post/2019-07-29-logos/</link><pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/post/2019-07-29-logos/</guid><description>&lt;p>TODO&lt;/p>
+$$ --></description></item><item><title>λόγος</title><link>https://ap6yc.github.io/post/2019-07-29-logos/</link><pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/post/2019-07-29-logos/</guid><description>&lt;h1 id="why-λόγος">Why &amp;ldquo;λόγος&amp;rdquo;?&lt;/h1>
+&lt;p>Though this site is meant to serve as my personal homepage, I wanted to briefly talk about some of the guiding principles of why I - or indeed &amp;ldquo;we&amp;rdquo;, the scientists and engineers of the world - do what I/we do, which I hope to convince you does indeed overlap with the meaning of the funny name that I have chosen for my website.&lt;/p>
+&lt;h2 id="semantics">Semantics&lt;/h2>
+&lt;p>The Attic Greek work &amp;ldquo;λόγος&amp;rdquo; generally derives from the infinitive &amp;ldquo;λέω&amp;rdquo; (to speak) via the first person present indefinite &amp;ldquo;λέγω&amp;rdquo; (I speak), cognate of the Latin &amp;ldquo;legō, legere, lēgī lēctum&amp;rdquo; (to read/explain).
+The term &amp;ldquo;λέω&amp;rdquo; generally refers to the act of speaking with purpose, in the sense of discussion, clarification, or even debate.
+While the related &amp;ldquo;λέξις&amp;rdquo; would typically be used in the literal sense of &amp;ldquo;word&amp;rdquo;, the term &amp;ldquo;λόγος&amp;rdquo; was used in the sense of rhetoric, and it hence has its origins in ancient Greek philosophy to mean anything from &amp;ldquo;argument&amp;rdquo; the reason to &amp;ldquo;argument&amp;rdquo; the discourse.&lt;/p>
+&lt;h2 id="usage">Usage&lt;/h2>
+&lt;p>The term began to be used in a multitude of ways by different schools of thought from the Stoics to the variety of churches in the common era.
+Early rhetoricians used the term &amp;ldquo;λόγος&amp;rdquo; in the sense of pursuasion by reason.
+The early Stoics with their plethora of uniquely articulated tenets used the term to refer to the structured foundation of the universe, &amp;ldquo;λόγος σπερματικός.&amp;rdquo;
+Religious philosophers appropriated this sense to mean the divine declaration of order and hense the very breath that created the universe, going so far as to assert in that the motion of the entire world is the &amp;ldquo;word of God.&amp;rdquo;
+Later usage is increasingly varied, but the sense of &amp;ldquo;structure&amp;rdquo; provides a throughline, from that of the structure of reason to the creation of the cosmos and the laws that bind it.&lt;/p>
+&lt;h2 id="is-this-arrant-pedantry">Is this arrant pedantry?&lt;/h2>
+&lt;p>The purpose of this post is not to show off my capacity for esoteric sophistry, though I admit to letting myself fall down linguistic rabbit holes more than my graduate time schedule should permit.
+I first became aware of the term through my own personal journey with Stoicism in the modern world, but as I learned about it I found that its amalgam meaning captured my personal philosophy about the reason that I am in the sciences to begin with.
+Beyond a semantic curiosity, the reason that &lt;em>this&lt;/em> site is titled &amp;ldquo;λόγος&amp;rdquo; is because I wanted to assert the purpose of why I post here or indeed do anything at all.&lt;/p>
+&lt;h2 id="soapbox">Soapbox&lt;/h2>
+&lt;p>As a scientist and engineer, I share a curiosity with much of the world about the nature of the universe that we are born into.
+We are all of us thrust into an ambiguous, confusing, and seemingly chaotic mess of a world, the realization of which is not aided by the fact that we are burdened with the knowledge of how fleeting our time in it is.
+And yet, despite the crushing gravity of knowing our cosmic insignificance, transient eddies on a floating mot of dust in an imaginable expanse that we are, the human curiosity persists.
+Epistomologically, there is something magical about the fact that we are capable of learning, exploring, and finding answers whatsoever in the crazy world that we live in.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>Our capacity as humans to be aware of the world and our place in it is both the sickness and the cure; our lonely existential crisis can only be ameliorated by the pursuit of knowledge in understanding our place in the world.
+From the structure of the fabric of the universe to the inner workings of our very minds, I believe that the pursuit of knowledge is not just the only thing to do that makes sense in this life but is also &lt;em>the very thing that bestows upon it meaning.&lt;/em>&lt;/p>
+&lt;p>That, and being good to one another, of course.&lt;/p>
 &lt;!-- KaTeX can be used to generate complex math formulas. It supports in-line math using the `\\( ... \\)` delimiters, like this: \\( E = mc^2 \\). By default, it does *not* support in-line delimiters `$...$` because those occur too commonly in typical webpages. It supports displayed math using the `$$` or `\\[...\\]` delimiters, like this:
 Formula 1:
 $$
@@ -273,17 +317,7 @@ color: navy;
 &lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>An example conference paper</title><link>https://ap6yc.github.io/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/publication/example/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Shape-dependence of transmission, reflection and absorption eigenvalue densities in disordered waveguides with dissipation</title><link>https://ap6yc.github.io/publication/yamilov/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/publication/yamilov/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Shape-dependence of transmission, reflection and absorption eigenvalue densities in disordered waveguides with dissipation</title><link>https://ap6yc.github.io/publication/yamilov/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/publication/yamilov/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
