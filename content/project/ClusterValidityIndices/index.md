@@ -16,11 +16,11 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+- icon: blog
+  icon_pack: fas
+  name: Post
+  url: "/post/2021-09-27-clustervalidityindices"
+url_code: "https://github.com/AP6YC/ClusterValidityIndices.jl"
 url_pdf: ""
 url_slides: ""
 url_video: ""

@@ -53,7 +53,7 @@ title = "Welcome to λόγος"
 #  label = "View Documentation"
 
 [cta_alt]
-  url = "#about"
+  url = "/#about"
   # url = "/home/2019-07-29-logos"
   label = "About Sasha"
   # label = "Why λόγος?"
@@ -62,8 +62,8 @@ title = "Welcome to λόγος"
 #[cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 
-[cta_note]
-  label = 'asdf'
+#[cta_note]
+#  label = 'asdf'
 +++
 
-the homepage of Sasha Petrenko, graduate researcher of machine learning.
+Homepage of Sasha Petrenko, graduate researcher of machine learning.

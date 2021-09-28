@@ -14,6 +14,12 @@ featured: true
 # Link this post with a project
 projects: ["ClusterValidityIndices.jl"]
 
+links:
+  - icon_pack: fab
+    icon: osi
+    name: Publication
+    url: '/publication/joss-cvi'
+
 header:
     # image: headers/bubbles-wide.jpg
     image: path.jpg

@@ -12,15 +12,20 @@ date: "2021-09-27T00:00:00Z"
 external_link: "https://github.com/AP6YC/AdaptiveResonance.jl"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ART module architecture.
   focal_point: Smart
 
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+- icon: blog
+  icon_pack: fas
+  name: Post
+  url: "/post/2021-09-27-adaptiveresonance/"
+url_code: "https://github.com/AP6YC/AdaptiveResonance.jl"
 url_pdf: ""
 url_slides: ""
 url_video: ""

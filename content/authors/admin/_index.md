@@ -1,16 +1,17 @@
 ---
 # Display name
-name: Sasha Petrenko
+# name: Sasha Petrenko
+title: Sasha Petrenko
 
 # Username (this should match the folder name)
-authors:
-- admin
+# authors:
+# - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ph.D. Student - Graduate Researcher
+role: Ph.D. Candidate of Computer Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +74,7 @@ social:
 
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 
 - icon: twitter
   icon_pack: fab
@@ -114,9 +115,9 @@ email: "sap625@mst.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 Sasha Petrenko is a graduate researcher at the Missouri University of Science and Technology. He has a background in the Aerospace Engineering topics of orbital mechanics and applied optimal estimation. His research interests include artificial intelligence, adaptive dynamic programming (reinforcement learning), and autonomy.
