@@ -5,6 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
+# title = "Welcome to λόγος"
 title = "Welcome to λόγος"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
@@ -52,8 +53,10 @@ title = "Welcome to λόγος"
 #  label = "View Documentation"
 
 [cta_alt]
-  url = "/post/2019-07-29-logos"
-  label = "Why λόγος?"
+  url = "#about"
+  # url = "/home/2019-07-29-logos"
+  label = "About Sasha"
+  # label = "Why λόγος?"
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
@@ -62,3 +65,5 @@ title = "Welcome to λόγος"
 [cta_note]
   label = 'asdf'
 +++
+
+the homepage of Sasha Petrenko, graduate researcher of machine learning.

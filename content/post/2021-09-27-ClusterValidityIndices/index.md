@@ -1,15 +1,18 @@
 ---
-title: λόγος
-subtitle: Why Logos?
+title: ClusterValidityIndices.jl
+subtitle: A Julia package for incremental and batch Cluster Validity Indices (CVI/ICVI).
 date: 2019-07-29
 authors: ["admin"]
-categories: ["philosophy"]
-tags: ["philosophy"]
-summary: A foundational philosophy of inquiry and curiosity.
+categories: ["projects"]
+tags: ["Julia", "CVI", "ICVI"]
+summary: A Julia package for incremental and batch Cluster Validity Indices (CVI/ICVI).
 featured: true
 # profile: true
 # commentable: true
 # share: true
+
+# Link this post with a project
+projects: ["ClusterValidityIndices.jl"]
 
 header:
     # image: headers/bubbles-wide.jpg
@@ -23,14 +26,14 @@ header:
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
+  caption: "ART Module Architecture"
   # focal_point: "Center"
   focal_point: "TopLeft"
   preview_only: false
 ---
 
-TODO
-
+`ClusterValidityIndices.jl` is a registered JuliaHub package for incremental and batch Cluster Validity Indices (CVI/ICVI).
+These algorithms are used for determining the quality and performance of a clustering algorithm in the absence of a supervisory signal.
 
 <!-- KaTeX can be used to generate complex math formulas. It supports in-line math using the `\\( ... \\)` delimiters, like this: \\( E = mc^2 \\). By default, it does *not* support in-line delimiters `$...$` because those occur too commonly in typical webpages. It supports displayed math using the `$$` or `\\[...\\]` delimiters, like this:
 

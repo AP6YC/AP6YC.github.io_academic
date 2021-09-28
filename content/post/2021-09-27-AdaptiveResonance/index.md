@@ -5,11 +5,14 @@ date: 2019-07-29
 authors: ["admin"]
 categories: ["projects"]
 tags: ["Julia", "ART"]
-summary: asdf
+summary: A Julia package for Adaptive Resonance Theory (ART) modules.
 featured: true
 # profile: true
 # commentable: true
 # share: true
+
+# Link this post with a project
+projects: ["AdaptiveResonance.jl"]
 
 header:
     # image: headers/bubbles-wide.jpg
@@ -29,7 +32,8 @@ image:
   preview_only: false
 ---
 
-
+`AdaptiveResonance.jl` is a registered JuliaHub package for Adaptive Resonance Theory (ART) modules.
+These algorithms are built upon a foundation of the neural theory and implementations of Stephen Grossberg and Gail Carpenter.
 
 <!-- KaTeX can be used to generate complex math formulas. It supports in-line math using the `\\( ... \\)` delimiters, like this: \\( E = mc^2 \\). By default, it does *not* support in-line delimiters `$...$` because those occur too commonly in typical webpages. It supports displayed math using the `$$` or `\\[...\\]` delimiters, like this:
 
