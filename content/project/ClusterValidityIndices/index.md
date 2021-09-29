@@ -51,3 +51,5 @@ slides: ""
 
 `ClusterValidityIndices.jl` is a registered JuliaHub package for incremental and batch Cluster Validity Indices (CVI/ICVI).
 These algorithms are used for determining the quality and performance of a clustering algorithm in the absence of a supervisory signal.
+
+The contributions of the project are represented as a [paper under review](/publication/joss-cvi) in the Journal of Open Source Software (JOSS).

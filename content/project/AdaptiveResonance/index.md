@@ -56,3 +56,5 @@ slides: ""
 
 `AdaptiveResonance.jl` is a registered JuliaHub package for Adaptive Resonance Theory (ART) modules.
 These algorithms are built upon a foundation of the neural theory and implementations of Stephen Grossberg and Gail Carpenter.
+
+The contributions of the project are represented as a [paper under review](/publication/joss-art) in the Journal of Open Source Software (JOSS).
