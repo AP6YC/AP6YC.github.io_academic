@@ -1,6 +1,6 @@
 ---
 title: DARPA Lifelong Learning Machines (L2M) Program
-summary: asdf
+summary: A collaboration between Missouri S&T and Teledyne Scientific for studying lifelong machine learning algorithms.
 tags:
 - ART
 - CVI
