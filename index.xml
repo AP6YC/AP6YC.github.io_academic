@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>λόγος</title><link>https://ap6yc.github.io/</link><atom:link href="https://ap6yc.github.io/index.xml" rel="self" type="application/rss+xml"/><description>λόγος</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Sasha Petrenko</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://ap6yc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>λόγος</title><link>https://ap6yc.github.io/</link></image><item><title>Example Talk</title><link>https://ap6yc.github.io/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://ap6yc.github.io/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>λόγος</title><link>https://ap6yc.github.io/</link><atom:link href="https://ap6yc.github.io/index.xml" rel="self" type="application/rss+xml"/><description>λόγος</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Sasha Petrenko</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://ap6yc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>λόγος</title><link>https://ap6yc.github.io/</link></image><item><title>Example Talk</title><link>https://ap6yc.github.io/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://ap6yc.github.io/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
@@ -106,7 +106,7 @@ $$&lt;/p>
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code>&lt;/pre>
 &lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
-&lt;p>&lt;span class="fragment " >
+&lt;span class="fragment " >
 One
 &lt;/span>
 &lt;span class="fragment " >
@@ -114,7 +114,7 @@ One
 &lt;/span>
 &lt;span class="fragment " >
 Three
-&lt;/span>&lt;/p>
+&lt;/span>
 &lt;hr>
 &lt;p>A fragment can accept two optional parameters:&lt;/p>
 &lt;ul>
@@ -185,4 +185,69 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title/><link>https://ap6yc.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/admin/config.yml</guid><description/></item></channel></rss>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Sasha Petrenko</title><link>https://ap6yc.github.io/admin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ap6yc.github.io/admin/</guid><description>&lt;p>Sasha Petrenko is a graduate researcher at the Missouri University of Science and Technology. He has a background in the Aerospace Engineering topics of orbital mechanics and applied optimal estimation. His research interests include artificial intelligence, adaptive dynamic programming (reinforcement learning), and autonomy.&lt;/p>
+&lt;p>&lt;a href="files/Sasha_Petrenko_CV.pdf">Curriculum Vitae&lt;/a>&lt;/p>
+&lt;!-- ---
+# Display name
+title: Nelson Bighetti
+# Is this the primary user of the site?
+superuser: true
+# Role/position/tagline
+role: Professor of Artificial Intelligence
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: Stanford University
+url: https://www.stanford.edu/
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Interests to show in About widget
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
+# Education to show in About widget
+education:
+courses:
+- course: PhD in Artificial Intelligence
+institution: Stanford University
+year: 2012
+- course: MEng in Artificial Intelligence
+institution: Massachusetts Institute of Technology
+year: 2009
+- course: BSc in Artificial Intelligence
+institution: Massachusetts Institute of Technology
+year: 2008
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+# form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+- icon: envelope
+icon_pack: fas
+link: '/#contact'
+- icon: twitter
+icon_pack: fab
+link: https://twitter.com/GeorgeCushen
+- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+icon_pack: fas
+link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+icon_pack: fab
+link: https://github.com/gcushen
+- icon: linkedin
+icon_pack: fab
+link: https://www.linkedin.com/
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
+# and uncomment the lines below.
+# - icon: cv
+# icon_pack: ai
+# link: media/resume.pdf
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+---
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+&lt;i class="fas fa-download pr-1 fa-fw">&lt;/i> Download my &lt;a href="https://ap6yc.github.io/media/demo_resume.pdf" target="_blank">resumé&lt;/a>. --></description></item></channel></rss>
