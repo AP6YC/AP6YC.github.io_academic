@@ -1,3 +1,3 @@
 # LOGOS
 
-This repository is my personal website and por
+This repository is Sasha Petrenko's personal website and portfolio.
