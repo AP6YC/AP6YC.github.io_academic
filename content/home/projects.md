@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Julia
     tag: Julia
+  - name: Python
+    tag: Python
   - name: ART
     tag: ART
   - name: CVI

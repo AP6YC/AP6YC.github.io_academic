@@ -6,11 +6,16 @@
 # Appearance
 
 # theme: minimal
-theme: dark
-day_night: true
-# font: 'minimal'
-font: 'cyberpunk'
-font_size: L
+appearance:
+  # theme: dark
+  # theme_day: 'dark'
+  theme_night: 'dark'
+  day_night: true
+  # font: 'minimal'
+  # font: 'mr robot'
+  font: 'cyberpunk'
+  # font: 'native'
+  font_size: L
 
 # SEO
 
