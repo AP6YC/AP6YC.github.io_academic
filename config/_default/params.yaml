@@ -8,7 +8,8 @@
 # theme: minimal
 theme: dark
 day_night: true
-font: 'minimal'
+# font: 'minimal'
+font: 'cyberpunk'
 font_size: L
 
 # SEO
