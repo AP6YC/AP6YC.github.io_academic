@@ -1,29 +1,29 @@
 ---
-title: ClusterValidityIndices.jl is released on JuliaHub
-subtitle: ClusterValidityIndices.jl is registered as an official JuliaHub package at version 0.1.0.
-date: 2021-09-27
+title: cvi is released on PyPi
+subtitle: cvi is registered as an official Python PyPi package at version 0.1.0.
+date: 2022-09-26
 authors: ["admin"]
 categories: ["projects"]
 tags: ["Julia", "CVI", "ICVI"]
-summary: ClusterValidityIndices.jl is registered as an official JuliaHub package at version 0.1.0.
+summary: cvi is registered as an official Python PyPi package at version 0.1.0.
 featured: true
 # profile: true
 # commentable: true
 # share: true
 
 # Link this post with a project
-projects: ["ClusterValidityIndices.jl"]
+projects: ["cvi"]
 
-links:
-  - icon_pack: fab
-    icon: osi
-    name: Publication
-    url: '/publication/joss-cvi'
+# links:
+#   - icon_pack: fab
+#     icon: osi
+#     name: Publication
+#     url: '/publication/joss-cvi'
 
 header:
     # image: headers/bubbles-wide.jpg
     image: path.jpg
-    caption: "Cluster validation."
+    caption: "Clustering validation"
 
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -38,5 +38,5 @@ image:
   preview_only: false
 ---
 
-`ClusterValidityIndices.jl` has been released on JuliaHub!
-Please see the [project page](/project/clustervalidityindices) to learn more about the project, JuliaHub, and CVI/ICVIs.
+`cvi` has been released on PyPi!
+Please see the [project page](/project/cvi) to learn more about the project, PyPi, and CVI/ICVIs.

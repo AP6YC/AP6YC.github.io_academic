@@ -1,13 +1,13 @@
 ---
-title: ClusterValidityIndices.jl
-summary: A Julia package for incremental and batch Cluster Validity Indices (CVI).
+title: cvi
+summary: A Python package for incremental and batch Cluster Validity Indices (CVI).
 tags:
 - CVI
 - ICVI
 - Machine Learning
-- Julia
-- JuliaHub
-date: "2021-09-27T00:00:00Z"
+- Python
+- PyPi
+date: "2022-09-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://github.com/AP6YC/ClusterValidityIndices.jl"
@@ -21,19 +21,19 @@ links:
 - icon: blog
   icon_pack: fas
   name: Post
-  url: "/post/2021-09-27-clustervalidityindices"
+  url: "/post/2022-09-26-cvi"
 - icon: github
   icon_pack: fab
   name: GitHub
-  url: https://github.com/AP6YC/ClusterValidityIndices.jl
+  url: https://github.com/AP6YC/cvi
 - icon: code-branch
   icon_pack: fas
-  name: JuliaHub
-  url: https://juliahub.com/ui/Packages/ClusterValidityIndices/Z19r6
-- icon_pack: fab
-  icon: osi
-  name: Publication
-  url: '/publication/joss-cvi'
+  name: PyPi
+  url: https://pypi.org/project/cvi/
+# - icon_pack: fab
+#   icon: osi
+#   name: Publication
+#   url: '/publication/joss-cvi'
 
 # url_code: "https://github.com/AP6YC/ClusterValidityIndices.jl"
 url_code: ""
@@ -50,7 +50,5 @@ url_video: ""
 slides: ""
 ---
 
-`ClusterValidityIndices.jl` is a registered JuliaHub package for incremental and batch Cluster Validity Indices (CVI/ICVI).
+`cvi` is a registered PyPi package for incremental and batch Cluster Validity Indices (CVI/ICVI).
 These algorithms are used for determining the quality and performance of a clustering algorithm in the absence of a supervisory signal.
-
-The contributions of the project are represented as a [paper under review](/publication/joss-cvi) in the Journal of Open Source Software (JOSS).
